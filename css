@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial;background:linear-gradient(135deg,#00c6ff,#0072ff);color:white;}
+header,footer{background:rgba(0,0,0,0.3);padding:15px;}
+nav a{color:white;margin:10px;text-decoration:none;}
+.hero{height:80vh;display:flex;justify-content:center;align-items:center;text-align:center;}
+.card{background:rgba(255,255,255,0.2);padding:20px;margin:10px;border-radius:10px;}
+.grid{display:flex;flex-wrap:wrap;justify-content:center;}
